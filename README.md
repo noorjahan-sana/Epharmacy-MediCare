@@ -1,2 +1,2 @@
 # repo-name
-# madicare-spring-boot
+# Epharmacy-MediCare
